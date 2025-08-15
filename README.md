@@ -11,3 +11,8 @@ I approach the exam task by thoroughly exploring the dataset to understand its s
 
 
 This link contains the Dashboard: https://app.powerbi.com/view?r=eyJrIjoiOWVlMmVjMTItMWZkNy00OTllLThhOTYtY2RmMGM3NTgxNDAxIiwidCI6IjE2ZDgzZWU2LTI1NGEtNDY5ZC1hNmNjLTU0ZTJjYTIzMTNlNyIsImMiOjh9
+
+
+## Report Screenshots
+### Sales Overview Page
+![Power Query View](Power Query/.png)
